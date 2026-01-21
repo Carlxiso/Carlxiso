@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi I´m Carlos 👋
+
+HTML CSS Javascript Typescript React.js Next.js Redux Toolkit Tailwind CSS Node.js Express.js MongoDB Mongoose MySQL AWS SupaBase
+
+I focus on building high-quality software and sharing practical knowledge to help developers grow. With 5+ years of professional experience, I design and develop web applications using JavaScript and its ecosystem, emphasizing scalable architecture, accessibility, best practices, and developer experience.
+
+I consistently build well-structured ...
 
 <!--
 **Carlxiso/Carlxiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
