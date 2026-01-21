@@ -13,7 +13,14 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 
-```HTML``` CSS Javascript Typescript React.js Next.js Redux Toolkit Tailwind CSS Node.js Express.js MongoDB Mongoose MySQL AWS SupaBase
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+
+
 
 I focus on building high-quality software and sharing practical knowledge to help developers grow. With 5+ years of professional experience, I design and develop web applications using JavaScript and its ecosystem, emphasizing scalable architecture, accessibility, best practices, and developer experience.
 
