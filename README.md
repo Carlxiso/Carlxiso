@@ -2,7 +2,10 @@
 
 ### 🛠 Frontend Developer focus on React.
 
-I am a developer focused on React Frontend, interested in creating clean, scalable, and well-structured interfaces. I am currently evolving in modern React (hooks, state management, performance) and building real projects for my portfolio.
+I’m a **Frontend Developer focused on React**, passionate about building clean, scalable, and well-structured user interfaces.  
+I work mainly with **modern React** (hooks, state management, data fetching, performance) and continuously build real-world projects to improve my skills.
+
+I’m comfortable working independently, communicating clearly, and collaborating in async/remote environments.
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -13,7 +16,7 @@ I am a developer focused on React Frontend, interested in creating clean, scalab
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
 
-### State & Data
+### State Management & Data Fetching
 ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white)
@@ -21,18 +24,25 @@ I am a developer focused on React Frontend, interested in creating clean, scalab
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 
-### Tools
+### 🛠 Tools & Development Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-Currently exploring backend and cloud concepts (Node.js, REST APIs, databases, and deployment) to improve integration with frontend applications.
 
-#### Backend
+#### Backend & Cloud (Currently Learning)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+
+Currently exploring backend and cloud concepts (Node.js, REST APIs, databases, and deployment) to improve integration with frontend applications.
+I use Linux for development. Comfortable with terminal, package management, and tooling for frontend development.
+
+
+## 📌 Projects
+
 
 ## 📈 What I value
 - Clean and readable code
