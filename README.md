@@ -1,6 +1,6 @@
 ## Hi I´m Carlos 👋
 
-### 🛠 Frontend Developer focus on React.
+### Frontend Developer focus on React.
 
 I’m a **Frontend Developer focused on React**, passionate about building clean, scalable, and well-structured user interfaces.  
 I work mainly with **modern React** (hooks, state management, data fetching, performance) and continuously build real-world projects to improve my skills.
@@ -24,8 +24,9 @@ I’m comfortable working independently, communicating clearly, and collaboratin
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 
 
-### 🛠 Tools & Development Environment
+### Tools & Development Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -41,10 +42,10 @@ Currently exploring backend and cloud concepts (Node.js, REST APIs, databases, a
 I use Linux for development. Comfortable with terminal, package management, and tooling for frontend development.
 
 
-## 📌 Projects
+## Projects
 
 
-## 📈 What I value
+## What I value
 - Clean and readable code
 - Reusable components
 - Best practices in React
